@@ -1,0 +1,32 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[customers] (Table)
+       [dbo].[Department] (Table)
+       [dbo].[Employee] (Table)
+       [dbo].[Gender] (Table)
+       [dbo].[LoginAudit] (Table)
+       [dbo].[Role] (Table)
+       [dbo].[UserRoles] (Table)
+       [dbo].[Users] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Employee] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Employee] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[UserRoles] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[UserRoles] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Users] (Foreign Key)
+       [dbo].[DeleteRecord] (Procedure)
+       [dbo].[spGetAllEmployees] (Procedure)
+       [dbo].[spGetEmpById] (Procedure)
+       [dbo].[spGetEmployeeDepartment] (Procedure)
+       [dbo].[spGetEMployeeDepartmentbyParams] (Procedure)
+
+** Supporting actions

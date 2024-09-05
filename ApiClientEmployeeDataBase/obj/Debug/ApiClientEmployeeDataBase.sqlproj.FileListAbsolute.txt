@@ -1,0 +1,6 @@
+C:\Projects\Employee\ApiClientEmployeeDB-master\ApiClientEmployeeDataBase\bin\Debug\ApiClientEmployeeDataBase.dacpac
+C:\Projects\Employee\ApiClientEmployeeDB-master\ApiClientEmployeeDataBase\bin\Debug\ApiClientEmployeeDataBase.dll
+C:\Projects\Employee\ApiClientEmployeeDB-master\ApiClientEmployeeDataBase\bin\Debug\ApiClientEmployeeDataBase.pdb
+C:\Projects\Employee\ApiClientEmployeeDB-master\ApiClientEmployeeDataBase\obj\Debug\ApiClientEmployeeDataBase.sqlproj.AssemblyReference.cache
+C:\Projects\Employee\ApiClientEmployeeDB-master\ApiClientEmployeeDataBase\obj\Debug\ApiClientEmployeeDataBase.dll
+C:\Projects\Employee\ApiClientEmployeeDB-master\ApiClientEmployeeDataBase\obj\Debug\ApiClientEmployeeDataBase.pdb

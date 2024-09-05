@@ -1,0 +1,88 @@
+02-11-2023 12.47.35 PM	This log contains information about the import schema operation into project 'ApiClientEmployeeDataBase' on computer '11078-LAP-0703' by user 'Coditas'.
+02-11-2023 12.47.35 PM	Import of database schema has started.
+02-11-2023 12.47.47 PM	Gathering database credentials
+02-11-2023 12.47.47 PM	Gathering database options
+02-11-2023 12.47.47 PM	Gathering generic database scoped configuration option
+02-11-2023 12.47.47 PM	Gathering users
+02-11-2023 12.47.47 PM	Gathering roles
+02-11-2023 12.47.47 PM	Gathering application roles
+02-11-2023 12.47.47 PM	Gathering role memberships
+02-11-2023 12.47.47 PM	Gathering filegroups
+02-11-2023 12.47.47 PM	Gathering full-text catalogs
+02-11-2023 12.47.47 PM	Gathering assemblies
+02-11-2023 12.47.47 PM	Gathering certificates
+02-11-2023 12.47.47 PM	Gathering asymmetric keys
+02-11-2023 12.47.47 PM	Gathering symmetric keys
+02-11-2023 12.47.47 PM	Gathering encrypted symmetric keys
+02-11-2023 12.47.47 PM	Gathering schemas
+02-11-2023 12.47.47 PM	Gathering XML schema collections
+02-11-2023 12.47.47 PM	Gathering user-defined data types
+02-11-2023 12.47.47 PM	Gathering user-defined types
+02-11-2023 12.47.47 PM	Gathering table types
+02-11-2023 12.47.47 PM	Gathering unique keys for table types
+02-11-2023 12.47.47 PM	Gathering primary keys for table types
+02-11-2023 12.47.47 PM	Gathering indexes for table types
+02-11-2023 12.47.47 PM	Gathering check constraints for table types
+02-11-2023 12.47.47 PM	Gathering default constraints for table types
+02-11-2023 12.47.47 PM	Gathering partition functions
+02-11-2023 12.47.47 PM	Gathering partition schemes
+02-11-2023 12.47.47 PM	Gathering functions
+02-11-2023 12.47.47 PM	Gathering encrypted functions
+02-11-2023 12.47.47 PM	Gathering aggregates
+02-11-2023 12.47.47 PM	Gathering procedures
+02-11-2023 12.47.47 PM	Gathering encrypted procedures
+02-11-2023 12.47.47 PM	Gathering tables
+02-11-2023 12.47.47 PM	Gathering primary keys
+02-11-2023 12.47.47 PM	Gathering unique constraints
+02-11-2023 12.47.47 PM	Gathering foreign keys
+02-11-2023 12.47.47 PM	Gathering default constraints
+02-11-2023 12.47.47 PM	Gathering check constraints
+02-11-2023 12.47.47 PM	Gathering views
+02-11-2023 12.47.47 PM	Gathering encrypted views
+02-11-2023 12.47.47 PM	Gathering indexes
+02-11-2023 12.47.47 PM	Gathering statistics
+02-11-2023 12.47.47 PM	Gathering full-text index stoplists
+02-11-2023 12.47.47 PM	Gathering search property lists
+02-11-2023 12.47.47 PM	Gathering search properties
+02-11-2023 12.47.47 PM	Gathering full-text indexes
+02-11-2023 12.47.47 PM	Gathering column store indexes
+02-11-2023 12.47.47 PM	Gathering spatial indexes
+02-11-2023 12.47.47 PM	Gathering XML indexes
+02-11-2023 12.47.47 PM	Gathering Selective XML indexes
+02-11-2023 12.47.47 PM	Gathering encrypted triggers
+02-11-2023 12.47.47 PM	Gathering triggers
+02-11-2023 12.47.47 PM	Gathering encrypted and clr ddl triggers
+02-11-2023 12.47.47 PM	Gathering ddl triggers
+02-11-2023 12.47.47 PM	Creating edge constraints
+02-11-2023 12.47.47 PM	Gathering synonyms
+02-11-2023 12.47.47 PM	Gathering defaults
+02-11-2023 12.47.47 PM	Gathering data constraint uddt bindings
+02-11-2023 12.47.47 PM	Gathering rules
+02-11-2023 12.47.47 PM	Gathering data constraint uddt bindings
+02-11-2023 12.47.47 PM	Gathering message types
+02-11-2023 12.47.47 PM	Gathering queues
+02-11-2023 12.47.47 PM	Gathering contracts
+02-11-2023 12.47.47 PM	Gathering services
+02-11-2023 12.47.47 PM	Gathering event notifications
+02-11-2023 12.47.47 PM	Gathering remote service bindings
+02-11-2023 12.47.47 PM	Gathering broker priorities
+02-11-2023 12.47.47 PM	Gathering signatures
+02-11-2023 12.47.47 PM	Gathering compression options
+02-11-2023 12.47.47 PM	Gathering sequence types
+02-11-2023 12.47.47 PM	Gathering security policies
+02-11-2023 12.47.47 PM	Gather column encryption keys
+02-11-2023 12.47.47 PM	Gathering column master keys
+02-11-2023 12.47.47 PM	Gathering external data sources
+02-11-2023 12.47.47 PM	Gathering external file formats
+02-11-2023 12.47.47 PM	Gathering external tables
+02-11-2023 12.47.47 PM	Gathering XML index compression options
+02-11-2023 12.47.47 PM	Gathering extended properties
+02-11-2023 12.47.47 PM	Gathering assemblies
+02-11-2023 12.47.48 PM	Gathering credentials
+02-11-2023 12.47.48 PM	Gathering logins
+02-11-2023 12.47.48 PM	Gathering server audits
+02-11-2023 12.47.48 PM	Scanning project for duplicate elements
+02-11-2023 12.47.48 PM	Finished duplicate element processing
+02-11-2023 12.47.48 PM	Finished importing database.
+02-11-2023 12.47.48 PM	A summary of the import was saved to the following location: C:\EmployeePOC\ApiClientEmployeeDataBase\ApiClientEmployeeDataBase\Import Schema Logs\ApiClientEmployeeDat_20231102071735.log
+02-11-2023 12.47.48 PM	Click Finish to continue...
